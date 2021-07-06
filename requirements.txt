@@ -1,0 +1,5 @@
+Flask==2.0.1
+Flask-Auth==0.85
+Flask-HTTPAuth==4.4.0
+SQLAlchemy==1.4.20
+SQLAlchemy-serializer==1.4.1
